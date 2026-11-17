@@ -7,13 +7,13 @@
 
 :root {
   --black: #0a0a0a;
-  --chumbo: #2d2d2d;
-  --chumbo-light: #3a3a3a;
-  --terracota: #cc4b2c;
-  --terracota-hover: #e55a3a;
-  --amarelo: #d4b87a;
-  --amarelo-faded: #c9b17a;
-  --sangue: #8b1a1a;
+  --chumbo: #2b2c91;
+  --chumbo-light: #3f385c;
+  --terracota: #2c57cc;
+  --terracota-hover: #3a98e5;
+  --amarelo: #7aabd4;
+  --amarelo-faded: #7ac9bc;
+  --sangue: #1a8b6f;
   --sangue-light: #a32b2b;
   --text: #e0d8cc;
   --text-muted: #998e80;
